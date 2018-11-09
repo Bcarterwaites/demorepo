@@ -1,0 +1,44 @@
+
+body {
+    background-image: url("../images/gravel.png")
+}
+
+.navbar {
+    border-bottom-style: solid;
+    border-bottom-color: #cccccc;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    height: 6em;
+    
+}
+
+.navbar-brand {
+    background-color: #4aaaa5;
+    text-align: center;
+    font-family:'Georgia', Times, 'Times New Roman', serif; 
+    font-weight: bold;
+    font-size: 2em;
+    height: 3em;
+    width: 15em;
+}
+
+
+.img-fluid {
+    width: 200px;
+    height: 200px;
+}
+.container {
+    background-color: white;
+    width: 960px;   
+}
+
+h1 {
+    color: teal;
+    border-bottom-style: solid;
+    border-bottom-color: #cccccc;
+}
+
+.page-footer {
+    background-color: #666666;
+    color: white;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
